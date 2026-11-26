@@ -23,14 +23,6 @@ Rule-based chatbot using regex & intent matching.
 Can answer about course, price, timing, placement.
 Features: Intent detection, FAQ dataset, fallback, exit command.
 
-### 5. inventory.py - OOPs Inventory System
-Library Inventory System using OOP concepts.
-- Abstraction: LibraryItem (ABC)
-- Inheritance: Book, Magazine, DigitalMedia
-- Encapsulation: Private price, @property
-- Polymorphism: calculate_fee() different for each type
-- Dunder Methods: __str__, __repr__, __eq__, __len__
-
 ## 🛠️ Tech Used
 - Python
 - HTML / CSS
